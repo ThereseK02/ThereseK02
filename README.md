@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tkabayanja/tkabayanja/main/github_banner_final.png" width="100%" />
-</p>
+![GitHub Banner](github_banner_final.png)
 
 # Hi there 👋
 
