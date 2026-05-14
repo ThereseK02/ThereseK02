@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tkabayanja/tkabayanja/main/github_banner_final.png" width="100%" />
+</p>
 
-<!--
-**ThereseK02/ThereseK02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm Therese Kabayanja  
+Machine Learning and Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- AI & Machine Learning
+- Software Engineering
+- Data Science
+- Open Source
+
+## 🛠 Tech Stack
+Python • TensorFlow • PyTorch • FastAPI • SQL
+
